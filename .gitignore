@@ -1,0 +1,13 @@
+# Comentarios pueden comenzar con el símbolo #
+# Ignorar archivos de respaldo y archivos temporales
+*~
+*.swp
+
+# Ignorar archivos de configuración específicos de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos y directorios específicos
+logs/
+node_modules/
+dist/
